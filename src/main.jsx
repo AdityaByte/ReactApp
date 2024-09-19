@@ -7,3 +7,10 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+// We can do the upper thing in this way also 
+
+// const root = createRoot(document.getElementById('root'))
+// root.render(
+//   <App />
+// )
